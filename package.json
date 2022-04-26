@@ -1,0 +1,37 @@
+{
+  "name": "react-native-regex-textinput",
+  "version": "1.0.0",
+  "description": "Use regex to filter the entered value (no flicker)",
+  "main": "NumberInput.js",
+  "keywords": [
+    "react-native",
+    "react native textInput",
+    "regex"
+  ],
+  "scripts": {
+    "lint": "eslint .",
+    "test": "echo \"No test specified\" && exit 1"
+  },
+  "author": "baijie1997",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/aJieBai/react-native-regex-textinput.git"
+  },
+  "dependencies": {
+    "lodash": "^4.16.4"
+  },
+  "peerDependencies": {
+    "react-native": "0.68.1"
+  },
+  "devDependencies": {
+    "@react-native-community/eslint-config": "^0.0.5",
+    "eslint": "^6.5.1"
+  },
+  "bugs": {
+    "url": "https://github.com/aJieBai/react-native-regex-textinput/issues"
+  },
+  "homepage": "https://github.com/aJieBai/react-native-regex-textinput",
+  "directories": {
+    "test": "test"
+  }
+}
